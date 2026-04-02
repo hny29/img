@@ -1,2 +1,2 @@
-# imgo
+# img
 images
